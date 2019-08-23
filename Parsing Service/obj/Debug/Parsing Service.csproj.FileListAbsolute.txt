@@ -1,0 +1,10 @@
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing Service.csprojAssemblyReference.cache
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing_Service.Properties.Resources.resources
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing Service.csproj.GenerateResource.cache
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing Service.csproj.CoreCompileInputs.cache
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\bin\Debug\Parsing Service.exe.config
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\bin\Debug\Parsing Service.exe
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\bin\Debug\Parsing Service.pdb
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing Service.exe
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing Service.pdb
+C:\Users\trsaluca\source\repos\Partin\Parsing Service\obj\Debug\Parsing_Service.View.ReportParsingServiceUISingle.resources

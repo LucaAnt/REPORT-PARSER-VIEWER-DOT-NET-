@@ -1,0 +1,10 @@
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\bin\Debug\NTI Viewer.exe.config
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\bin\Debug\NTI Viewer.exe
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\bin\Debug\NTI Viewer.pdb
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI Viewer.csprojAssemblyReference.cache
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI_Viewer.Form1.resources
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI_Viewer.Properties.Resources.resources
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI Viewer.csproj.GenerateResource.cache
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI Viewer.csproj.CoreCompileInputs.cache
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI Viewer.exe
+C:\Users\trsaluca\source\repos\Partin\NTI Viewer\obj\Debug\NTI Viewer.pdb

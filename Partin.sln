@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsing Service", "Parsing Service\Parsing Service.csproj", "{DC350710-E52B-46C9-8826-3C95FF214779}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parser NTI Test", "Parser NTI Test\Parser NTI Test.csproj", "{EA03470D-A3E7-4830-A727-976C29694ACA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZERA Format to Excel", "ZERA Format to Excel\ZERA Format to Excel.csproj", "{5A31B5A1-5CF8-4260-BB06-A47556F2543E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTI Viewer", "NTI Viewer\NTI Viewer.csproj", "{FEC5AE99-6117-4A65-93C1-614766578E05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC350710-E52B-46C9-8826-3C95FF214779}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC350710-E52B-46C9-8826-3C95FF214779}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC350710-E52B-46C9-8826-3C95FF214779}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC350710-E52B-46C9-8826-3C95FF214779}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA03470D-A3E7-4830-A727-976C29694ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA03470D-A3E7-4830-A727-976C29694ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA03470D-A3E7-4830-A727-976C29694ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA03470D-A3E7-4830-A727-976C29694ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A31B5A1-5CF8-4260-BB06-A47556F2543E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A31B5A1-5CF8-4260-BB06-A47556F2543E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A31B5A1-5CF8-4260-BB06-A47556F2543E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A31B5A1-5CF8-4260-BB06-A47556F2543E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC5AE99-6117-4A65-93C1-614766578E05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC5AE99-6117-4A65-93C1-614766578E05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC5AE99-6117-4A65-93C1-614766578E05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC5AE99-6117-4A65-93C1-614766578E05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {835B2883-46C6-49ED-96F5-8DF2682CF245}
+	EndGlobalSection
+EndGlobal
